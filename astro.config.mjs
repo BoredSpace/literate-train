@@ -101,7 +101,25 @@ export default defineConfig({
 				},
 				{
 					label: 'Dynamik',
-					autogenerate: { directory: 'dynamik' },
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Dynamik', slug: 'dynamik/bewegung' },
+						{
+							label: 'Kinematik und Dynamik',
+							items: [
+								'dynamik/kd/1',
+								'dynamik/kd/2',
+								'dynamik/kd/3',
+								'dynamik/kd/4',
+								'dynamik/kd/5',
+								'dynamik/kd/6',
+								'dynamik/kd/7',
+								'dynamik/kd/8',
+								'dynamik/kd/9',
+								'dynamik/kd/10',
+							],
+						},
+					],
 				},
 				{
 					label: 'C++',
