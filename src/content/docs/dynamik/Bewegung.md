@@ -1,11 +1,12 @@
 ---
-title: Bewegung
-description: Zweites Dynamik Konzep
+title: Kinematik und Dynamik
+description: Kinematik und Dynamik
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+Source: 
+- [x] [Teilchen und ihre Bahnen](https://www.youtube.com/watch?v=N_JyaEz4b1M&list=PLeJlNT9hA2Pzndii4kvJ6S1gmiuDBxX84)
+
+
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
